@@ -8,6 +8,9 @@ namespace _1_aula
         static void Main(string[] args)
         {
             Console.WriteLine("Mamaki");
+            Console.WriteLine("Mamaki");
+            Console.WriteLine("Mamaki");
+            Console.WriteLine("Mamaki");
             Console.ReadLine();
         }
     }
